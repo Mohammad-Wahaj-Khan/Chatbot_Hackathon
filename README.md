@@ -13,7 +13,7 @@ This is a simple AI chatbot built using the OpenAI GPT-3 API, Node.js and Expres
 To use the AI chatbot, you will need to have Node.js and npm installed on your machine. Once you have installed these, you can clone the repository and install the dependencies by running the following commands:
 
 ``` Bash
-git clone https://github.com/uixaadi/aichatbot-chatgpt.git
+git clone https://github.com/Mohammad-Wahaj-Khan/Chatbot_Hackathon.git
 cd aichatbot-chatgpt
 npm install
 ```
@@ -46,4 +46,4 @@ If you find any issues with the AI chatbot or have any suggestions for improveme
 
 ### Author
 
-[@uixaadi](https://github.com/uixaadi)
+[@Mohammad-Wahaj-Khan](https://github.com/Mohammad-Wahaj-Khan)
